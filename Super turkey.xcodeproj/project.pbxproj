@@ -329,6 +329,7 @@
 				B8640A061DBAC6D900E5FADC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8640A081DBAC6D900E5FADC /* Build configuration list for PBXNativeTarget "Super turkey" */ = {
 			isa = XCConfigurationList;
@@ -337,6 +338,7 @@
 				B8640A0A1DBAC6D900E5FADC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
