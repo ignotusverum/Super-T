@@ -1,0 +1,62 @@
+{
+  "stickers" : [
+    {
+      "filename" : "t1.sticker"
+    },
+    {
+      "filename" : "hey 4.sticker"
+    },
+    {
+      "filename" : "bye.sticker"
+    },
+    {
+      "filename" : "eat beef.sticker"
+    },
+    {
+      "filename" : "gobble.sticker"
+    },
+    {
+      "filename" : "happy2.sticker"
+    },
+    {
+      "filename" : "thks2.sticker"
+    },
+    {
+      "filename" : "thank you final.sticker"
+    },
+    {
+      "filename" : "cry t.sticker"
+    },
+    {
+      "filename" : "haha.sticker"
+    },
+    {
+      "filename" : "in love 2.sticker"
+    },
+    {
+      "filename" : "sleepy.sticker"
+    },
+    {
+      "filename" : "hat4.sticker"
+    },
+    {
+      "filename" : "hat ind.sticker"
+    },
+    {
+      "filename" : "belt2.sticker"
+    },
+    {
+      "filename" : "nose.sticker"
+    },
+    {
+      "filename" : "pump3.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
